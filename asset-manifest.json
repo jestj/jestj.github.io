@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.b093167a.css",
-    "main.js": "/static/js/main.e10262fa.js",
-    "static/js/787.23170c61.chunk.js": "/static/js/787.23170c61.chunk.js",
-    "static/media/tekkenlogo.png": "/static/media/tekkenlogo.50002ab82bedfa79b06f.png",
-    "index.html": "/index.html",
-    "main.b093167a.css.map": "/static/css/main.b093167a.css.map",
-    "main.e10262fa.js.map": "/static/js/main.e10262fa.js.map",
-    "787.23170c61.chunk.js.map": "/static/js/787.23170c61.chunk.js.map"
+    "main.css": "//jestj.github.io/COE/static/css/main.5804cec6.css",
+    "main.js": "//jestj.github.io/COE/static/js/main.5ae8386f.js",
+    "static/js/787.23170c61.chunk.js": "//jestj.github.io/COE/static/js/787.23170c61.chunk.js",
+    "static/media/tekkenlogo.png": "//jestj.github.io/COE/static/media/tekkenlogo.50002ab82bedfa79b06f.png",
+    "index.html": "//jestj.github.io/COE/index.html",
+    "main.5804cec6.css.map": "//jestj.github.io/COE/static/css/main.5804cec6.css.map",
+    "main.5ae8386f.js.map": "//jestj.github.io/COE/static/js/main.5ae8386f.js.map",
+    "787.23170c61.chunk.js.map": "//jestj.github.io/COE/static/js/787.23170c61.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b093167a.css",
-    "static/js/main.e10262fa.js"
+    "static/css/main.5804cec6.css",
+    "static/js/main.5ae8386f.js"
   ]
 }
